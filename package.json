@@ -1,0 +1,22 @@
+{
+  "name": "auto-srcset-loader",
+  "version": "0.0.1",
+  "description": "a webpack loader to create srcset images automatically",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:Klathmon/auto-srcset-loader.git",
+    "type": "git"
+  },
+  "author": "Klathmon <gregbenner1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "jimp": "^0.2.27",
+    "loader-utils": "^0.2.16"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-stage-3": "^6.17.0"
+  }
+}
